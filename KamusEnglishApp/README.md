@@ -15,12 +15,12 @@ Aplikasi kamus bahasa Inggris-Indonesia dengan fitur lengkap dan gimmick menarik
 
 3. **Permainan & Fakta Menarik**
    - Fakta acak yang informatif
-   - Permainan tebak angka
+   - Permainan koin flip
 
 4. **Gimmick: Pejabat Koruptor**
    - Muncul secara acak saat mouse digerakkan
-   - Menampilkan informasi pejabat koruptor terkenal
-   - Efek suara dan visual yang menarik
+   - 
+   - 
 
 ## Cara Menjalankan
 
