@@ -118,6 +118,8 @@ public class DictionaryPanel extends JPanel {
         indonesianToEnglishTree.insert("matriks", "Matrix");
         indonesianToEnglishTree.insert("digital", "Digital");
         indonesianToEnglishTree.insert("tikus", "Mouse");
+        indonesianToEnglishTree.insert("kalkulator", "Calculator");
+        indonesianToEnglishTree.insert("permainan", "Game");
     }
 
     private void initializeUI() {
