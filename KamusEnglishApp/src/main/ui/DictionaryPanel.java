@@ -177,7 +177,7 @@ public class DictionaryPanel extends JPanel {
                 searchButton.setText("SEARCH");
             } else {
                 languageToggle.setText("INDONESIA → ENGLISH");
-                searchButton.setText("CAR");
+                searchButton.setText("CARI");
             }
             updateWelcomeMessage();
         });
