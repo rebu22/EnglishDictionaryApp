@@ -61,8 +61,8 @@ public class CorruptionPopup extends JWindow {
     
     private ImageIcon createDefaultImage() {
 
-        int width = 150;
-        int height = 150;
+        int width = 100;
+        int height = 100;
         BufferedImage image = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
         Graphics2D g2d = image.createGraphics();
 
