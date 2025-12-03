@@ -23,7 +23,7 @@ public class CorruptionPopup extends JWindow {
 
         ImageIcon originalIcon = createBahlilImage();
         
-        imageLabel = new JLabel(originalIcon);
+        imageLabel = new CorruptionRotateImage(originalIcon);
         imageLabel.setOpaque(false);
         
         add(imageLabel, BorderLayout.CENTER);
@@ -36,7 +36,7 @@ public class CorruptionPopup extends JWindow {
     private ImageIcon createBahlilImage() {
         try {
 
-            String imagePath = "C:\\Users\\TUF GAMING\\Downloads\\bahlil.png.png";
+            String imagePath = "C:/Users/Pongo/Downloads/goblin.png";
             File file = new File(imagePath);
             
             System.out.println("Loading Bahlil image from: " + imagePath);
